@@ -1,5 +1,8 @@
 package generation_pattern.factoryMethod;
 
+/**
+ * 工場.
+ */
 public abstract class Factory {
 
 	public final Product create(String owner) {
